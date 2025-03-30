@@ -1,6 +1,6 @@
 Hi there 👋
 
-👩‍💻 I’m software developer currently working for macys.
+👩‍💻 I’m software developer doing masters in Computer Information Science @BostonUniversity.
 
 📕 I’m currently learning kafka
 
